@@ -1,0 +1,13 @@
+{
+  "name": "deep_copy",
+  "version": "1.0.0",
+  "description": "深拷贝",
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
